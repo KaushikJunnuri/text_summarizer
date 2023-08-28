@@ -1,2 +1,3 @@
 conda environment name: txt_env
-
+Execute the template.py to create folder structure for the project
+pip install -r requirements.txt
