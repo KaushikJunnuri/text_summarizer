@@ -1,0 +1,2 @@
+conda environment name: txt_env
+
